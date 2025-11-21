@@ -53,8 +53,7 @@ A cutting-edge web application that leverages artificial intelligence to detect 
 
 ```bash
 # Clone the repository
-git clone https://github.com/PrashantPKP/btd-neuro-ai-detector.git
-cd "btd-neuro-ai-detector"
+git clone https://github.com/ParasPKP/brain-tumor-detection-using-ml.git
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -226,13 +225,13 @@ This AI analysis tool is designed to **assist medical professionals only** and s
 - [Kaggle Brain Tumor Dataset](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection)
 
 ### Source Code
-- [GitHub Repository](https://github.com/PrashantPKP/btd-neuro-ai-detector)
+- [GitHub Repository](https://github.com/ParasPKP/brain-tumor-detection-using-ml.git)
 
 ---
 
 ## 👨‍💻 Author
 
-**Prashant Parshuramkar**
+**Paras Parshuramkar**
 
 - 🔗 [GitHub](https://github.com/ParasPKP)
 - 💼 [LinkedIn](https://www.linkedin.com/in/paras-parshuramkar-b8237b315/)
@@ -258,10 +257,5 @@ Contributions are welcome! Please feel free to:
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-1. Check the troubleshooting section above
-2. Review the GitHub repository issues
 3. Contact the developer through GitHub
 
