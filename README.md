@@ -257,3 +257,11 @@ Contributions are welcome! Please feel free to:
 
 
 ---
+
+## 📞 Support
+
+For issues, questions, or suggestions:
+1. Check the troubleshooting section above
+2. Review the GitHub repository issues
+3. Contact the developer through GitHub
+
