@@ -240,3 +240,20 @@ This AI analysis tool is designed to **assist medical professionals only** and s
 Built with ❤️ for medical innovation and early disease detection
 
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to:
+- Report bugs
+- Suggest improvements
+- Submit pull requests
+- Fork the repository
+
+
+---
